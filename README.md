@@ -1,6 +1,7 @@
-# Deep-Neural-Network-Fashion-MNIST-With_Numpy_Only
+# Deep-Neural-Network-MNIST-With_Numpy_Only
 
 ## Neural Network from scartch with numpy Only without TF or Keras
+> Implemented for hand digit minist dataset
 
 ![808-440](https://github.com/user-attachments/assets/596fa30f-9ea6-4b66-be2a-d79af184cba0)
 
